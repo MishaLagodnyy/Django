@@ -1,0 +1,15 @@
+{% extends 'services/base.html' %}
+
+{% block content %}
+<ul class="list-articles">
+	{% for p in posts %}
+			<li><h2>{{p.name_question}}</h2>
+	{% autoescape on %}
+	{{p.аnswer_question|linebreaks}}
+	{% endautoescape %}
+
+
+			</li>
+	{% endfor %}
+</ul>
+{% endblock %}

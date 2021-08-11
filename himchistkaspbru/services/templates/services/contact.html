@@ -1,0 +1,30 @@
+{% extends 'services/base.html' %}
+{% block content %}
+<h1>{{title}}</h1>
+<p>Контакты</p>
+<body>
+<h2>На Садовой</h2>
+<p>Садовая улица, 63  Санкт-Петербург, Россия</p>
+<p>С 9.00 до 18.00 Тел. 8955 555 55 55 </p>
+<h2>На Петроградке</h2>
+<p>Зверинская улица, 32  Санкт-Петербург, Россия</p>
+<p>С 9.00 до 18.00 Тел. 8966 666 66 66 </p>
+
+<div id="map" style="width:500px; height:400px"></div>
+<script type="text/javascript">
+    var map;
+
+    DG.then(function () {
+        map = DG.map('map', {
+            center: [59.944069, 30.306526],
+            zoom: 12
+
+        });
+        DG.marker([59.922342, 30.305893]).addTo(map).bindPopup('Наша Химчистка на Садовой');
+        DG.marker([59.952880, 30.301515]).addTo(map).bindPopup('Наша Химчистка на Петроградке');
+    });
+</script>
+
+
+</body>
+{% endblock %}

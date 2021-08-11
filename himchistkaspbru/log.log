@@ -1,0 +1,267 @@
+2021-08-08 19:22:53,522 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-08 19:22:53,868 |  WARNING | services.views | views.py.get_context_data:27 - Успешно
+2021-08-08 19:23:04,390 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-08 19:23:07,445 |  WARNING | services.views | views.py.get_context_data:27 - Успешно
+2021-08-08 19:23:08,526 |  WARNING | services.views | views.py.get_context_data:27 - Успешно
+2021-08-08 19:25:08,157 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-08 19:25:08,808 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-08 19:25:10,133 |     INFO | services.views | views.py.get_context_data:27 - Успешно
+2021-08-09 21:37:05,003 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\urls.py changed, reloading.
+2021-08-09 21:37:06,457 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:37:29,333 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\urls.py changed, reloading.
+2021-08-09 21:37:29,921 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:38:29,559 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:38:30,284 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:39:03,233 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:39:03,783 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:39:24,418 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:39:25,127 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:39:57,028 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:39:57,591 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:40:05,918 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:40:06,478 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:40:11,800 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:40:12,356 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:40:20,689 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:40:21,233 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:40:33,637 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:40:34,184 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:40:39,416 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:40:40,033 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:40:47,366 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:40:47,909 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:41:06,436 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:41:07,050 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:41:55,455 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:41:56,106 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:46:37,478 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:47:10,499 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:47:11,090 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:47:27,298 |     INFO | services.views | views.py.get_context_data:30 - Успешно
+2021-08-09 21:54:16,360 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 21:54:17,107 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:56:18,292 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 21:56:18,890 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:57:26,684 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 21:57:27,389 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:59:11,532 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:59:12,186 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:59:35,907 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:59:36,496 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 21:59:53,078 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 21:59:53,647 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:03:16,550 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:03:17,154 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:04:22,386 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:04:23,023 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:04:40,767 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:04:41,404 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:04:57,101 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:08:44,832 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:11:34,792 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:11:35,380 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:11:44,904 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:11:45,530 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:11:49,461 |     INFO | services.views | views.py.get_context_data:30 - Успешно
+2021-08-09 22:12:33,548 |    ERROR | django.request | log.py.log_response:224 - Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\loader_tags.py", line 127, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\loader_tags.py", line 124, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\loader_tags.py", line 103, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\engine.py", line 129, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: women/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: women/base.html
+2021-08-09 22:17:35,178 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:17:35,879 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:18:52,920 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:18:53,649 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:20:30,162 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:20:30,773 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:20:50,590 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\urls.py changed, reloading.
+2021-08-09 22:20:51,170 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:21:09,919 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:21:10,582 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:23:14,116 |  WARNING | django.request | log.py.log_response:224 - Not Found: /accounts/profile/
+2021-08-09 22:24:36,658 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:24:37,279 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:25:03,064 |  WARNING | django.request | log.py.log_response:224 - Not Found: /accounts/profile/
+2021-08-09 22:26:17,275 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:26:17,912 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:26:33,145 |  WARNING | django.request | log.py.log_response:224 - Not Found: /accounts/profile/
+2021-08-09 22:26:36,431 |     INFO | services.views | views.py.get_context_data:31 - Успешно
+2021-08-09 22:28:34,004 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\himchistkaspbru\settings.py changed, reloading.
+2021-08-09 22:28:34,594 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:28:51,297 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:28:51,896 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:28:54,443 |     INFO | services.views | views.py.get_context_data:31 - Успешно
+2021-08-09 22:30:27,827 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:30:28,574 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:31:00,727 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:31:01,303 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:31:12,775 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:31:13,395 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:32:59,406 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:33:00,028 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:40:25,366 |    ERROR | django.request | log.py.log_response:224 - Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+2021-08-09 22:42:02,655 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\urls.py changed, reloading.
+2021-08-09 22:42:03,386 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:42:37,710 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\urls.py changed, reloading.
+2021-08-09 22:42:38,389 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:44:27,702 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:44:28,305 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:44:59,516 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:45:00,125 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:45:45,791 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\urls.py changed, reloading.
+2021-08-09 22:45:46,401 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:45:53,401 |     INFO | services.views | views.py.get_context_data:31 - Успешно
+2021-08-09 22:48:16,853 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-09 22:48:17,487 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:48:55,922 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-09 22:48:56,529 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-09 22:50:03,287 |     INFO | services.views | views.py.get_context_data:31 - Успешно
+2021-08-11 21:33:28,078 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 21:34:59,533 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\himchistkaspbru\settings.py changed, reloading.
+2021-08-11 21:35:00,172 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 21:35:19,841 |     INFO | services.views | views.py.get_context_data:31 - Успешно
+2021-08-11 21:39:52,971 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\himchistkaspbru\settings.py changed, reloading.
+2021-08-11 21:39:53,758 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 21:41:35,422 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\himchistkaspbru\settings.py changed, reloading.
+2021-08-11 21:41:36,126 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 21:45:45,493 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\urls.py changed, reloading.
+2021-08-11 21:45:46,131 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 21:46:40,318 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\urls.py changed, reloading.
+2021-08-11 21:46:40,933 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 21:47:30,313 |     INFO | services.views | views.py.get_context_data:31 - Успешно
+2021-08-11 21:55:02,814 |     INFO | services.views | views.py.get_context_data:31 - Успешно
+2021-08-11 22:06:43,045 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-11 22:06:43,782 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:11:51,092 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-11 22:11:51,807 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:12:41,433 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:18:11,404 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:18:45,470 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:19:52,140 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:19:56,270 |    ERROR | django.request | log.py.log_response:224 - Internal Server Error: /addorder/
+Traceback (most recent call last):
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py", line 102, in addorder
+    return render(request, 'services/addorder.html', {'form': form, 'menu': menu, 'title': 'Завершить заказ'})
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\test\utils.py", line 100, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\test\utils.py", line 100, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Misha\PycharmProjects\pythonProject\venv\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'great_order' not found. 'great_order' is not a valid view function or pattern name.
+2021-08-11 22:20:31,518 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:26:27,276 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\forms.py changed, reloading.
+2021-08-11 22:26:28,010 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:37:47,755 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:40:05,798 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-11 22:40:06,442 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:40:24,587 |     INFO | services.views | views.py.get_context_data:31 - Успешно
+2021-08-11 22:42:21,440 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-11 22:42:22,111 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
+2021-08-11 22:43:56,775 |     INFO | django.utils.autoreload | autoreload.py.trigger_reload:251 - C:\Users\Misha\PycharmProjects\Django\himchistkaspbru\services\views.py changed, reloading.
+2021-08-11 22:43:57,476 |     INFO | django.utils.autoreload | autoreload.py.run_with_reloader:637 - Watching for file changes with StatReloader
